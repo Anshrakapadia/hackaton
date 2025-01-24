@@ -75,13 +75,16 @@ color: aliceblue;
 }
 .hero {
     padding: 10px;
+    display:flex;
+    align-items:center;
+    
 }
 .order{
     outline: black;
     padding: 10px;
     border-radius: 4px;
-} .images{
-    margin-left: 30em;
+} .images img{
+    margin-right: 30px;
     
 }
 
