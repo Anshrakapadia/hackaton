@@ -1,0 +1,105 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    text-transform: capitalize;
+}
+.start{
+    background-color: rgb(230, 223, 209);
+}
+.start a{
+    text-decoration: none;
+    color: black;
+padding-right: 20px;
+}
+.firs{
+    margin-left: 13em;
+    
+}
+img{
+    height: 50px;
+    width: 80px;
+}
+.second{
+    display: flex;
+    
+    
+    /* transition: all .50s ease; */
+}
+
+.ul{
+    
+ list-style: none;
+    display: flex;
+padding-right: 4em;
+color: aliceblue;
+
+} 
+.ul a{
+    text-decoration: none;
+    padding: 7px;
+    padding-left: 10px;
+}
+.ul a:hover{
+    color: blue;
+}
+
+
+    /* transition: all .6s ease; */
+ 
+.right-container{
+    padding: 4em;
+}
+
+.nav-button {
+   
+    /* transition: all .6s ease; */
+    background-color: rgb(34, 34, 97);
+     border: none;
+    color: white;
+    padding: 8px;
+    border-radius: 5px; 
+    margin-left: 3px;
+    
+}
+.nav-button-2{
+    background-color: green;
+    border: none;
+   color: white;
+   padding: 8px;
+   border-radius: 5px; 
+   margin: 4px;
+}
+.saylani{
+    color: yellowgreen;
+}
+.hero {
+    padding: 10px;
+}
+.order{
+    outline: black;
+    padding: 10px;
+    border-radius: 4px;
+} .images{
+    margin-left: 30em;
+    
+}
+
+.what{
+    text-align: center;
+}
+.card{
+ 
+    background-color: rgb(202, 240, 240);
+    width: 150px;
+   
+}
+.footer{
+    background-color: yellowgreen;
+    padding: 30px;
+
+}
+  .pho{
+    text-align: center;
+    display: inline;
+  }
